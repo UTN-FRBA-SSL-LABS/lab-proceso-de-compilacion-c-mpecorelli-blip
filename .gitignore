@@ -16,3 +16,4 @@ programa_enlazado
 
 # Archivos de entorno
 .DS_Store
+*.o
